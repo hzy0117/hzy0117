@@ -1,5 +1,3 @@
-
-
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I am hzy0117&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
@@ -8,8 +6,6 @@
 
 
 - ### Hi there 👋 I'm hzy0117!
-
-  
 
   A junior student majoring in **Internet of Things Engineering** at Henan Polytechnic University 🎓
 
@@ -20,18 +16,18 @@
   - In-depth **embedded system development** (started in 2024) 💻
   - Advanced **RT-Thread RTOS** application (driver dev, thread management, inter-thread communication) ⚙️
   - Intelligent car hardware design & control algorithm basics 🧠
-
+  
   #### 👯 I’m looking to collaborate on
 
   - RT-Thread-based embedded projects (industrial control, smart devices, etc.) 🤝
   - Intelligent car tech optimization (sensor fusion, motion control) 🚀
-
+  
   #### 💬 Ask me about
 
   - Basic RT-Thread embedded development experience 📚
   - Preliminary intelligent car project exploration process 🚗
   - IoT & embedded major daily learning methods 📝
-
+  
   #### 📫 How to reach me
 
   - Email: [[504131636@qq.com](mailto:504131636@qq.com)] 📧
