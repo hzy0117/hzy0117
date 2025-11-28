@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I am hzy0117&descAlign=50&descSize=30&descAlignY=60&animation=twinkling")
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I am hzy0117&descAlign=50&descSize=30&descAlignY=60&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=46&duration=2000&pause=1000&color=713BFF&background=FFFFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
@@ -44,4 +44,4 @@
     <img src="https://skillicons.dev/icons?i=git,anaconda,arduino,c,cpp,clion,cmake,git,github,vim" />
   </a>
 </p>
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer&text=Never Enough&fontSize=90&fontAlign=50&fontAlignY=70&desc=THE END&descAlign=50&descSize=30&descAlignY=40&animation=twinkling")
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer&text=Never Enough&fontSize=90&fontAlign=50&fontAlignY=70&desc=THE END&descAlign=50&descSize=30&descAlignY=40&animation=twinkling)
