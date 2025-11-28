@@ -44,4 +44,8 @@
     <img src="https://skillicons.dev/icons?i=git,anaconda,arduino,c,cpp,clion,cmake,git,github,vim" />
   </a>
 </p>
+
+
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=30&desc=Never%20Enough&descAlign=50&descSize=30&descAlignY=60&animation=twinkling)
